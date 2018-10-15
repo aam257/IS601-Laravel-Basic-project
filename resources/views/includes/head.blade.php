@@ -1,6 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="Laravel Project">
+<meta name="author" content="Aniket Mirajkar"
 
 <title>Laravel Basic Project</title>
 
