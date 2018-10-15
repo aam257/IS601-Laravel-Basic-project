@@ -12,12 +12,15 @@
                 @include('includes.header')
             </header>
 
-            <div id="main" class="row">
-                @yield('content')
-            </div>
+                <div id="main" class="row">
+
+                    @yield('content')
+
+                </div>
+                <div class="push"></div>
 
 
-            <footer class="row">
+            <footer >
                  @include('includes.footer')
             </footer>
 
