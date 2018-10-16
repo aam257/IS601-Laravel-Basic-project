@@ -1,5 +1,13 @@
 
 @extends('layouts.default')
 @section('content')
-    This is the home page of laravel basic project
+   
+    <h1>Home </h1>
+    <div class="container" >
+
+        <p>Welcome to the home page of Laravel assignment</p>
+
+    </div>
+
+
 @stop
